@@ -1,0 +1,6 @@
+name "duolist"
+description "A linked list library."
+authors "Isaac"
+copyright "Copyright © 2020, Isaac"
+license "MIT"
+targetType "library"

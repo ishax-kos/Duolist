@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/duolist
+duolist.so
+duolist.dylib
+duolist.dll
+duolist.a
+duolist.lib
+duolist-test-*
+*.exe
+*.o
+*.obj
+*.lst
